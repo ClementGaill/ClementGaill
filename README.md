@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementGaill&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ClementGaill)](https://github.com/anuraghazra/github-readme-stats)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31skllfq4dfbapp7m4a4ywia4f6m)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31skllfq4dfbapp7m4a4ywia4f6m&count={9})
